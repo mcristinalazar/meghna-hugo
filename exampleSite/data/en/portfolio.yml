@@ -4,7 +4,7 @@ portfolio:
   title: Cercei de poveste
   portfolio_item:
   - name: Cercei in noapte
-    image: "/image/cerceiinnoapte.jpg"
+    image: "/images/cerceiinnoapte.jpg"
     image_webp: ''
     categories:
     - Design
