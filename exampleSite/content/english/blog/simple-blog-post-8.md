@@ -5,7 +5,6 @@ image_webp: ''
 image: "/images/exemplu.jpg"
 author: John Doe
 description: This is meta description
-draft: true
 
 ---
 Buna, iata povestea.
