@@ -8,5 +8,5 @@ banner:
   content: Buna, sunt Maria si te invit la o calatorie de vis.
   button:
     enable: true
-    label: Explore Us
+    label: Vino cu mine!
     link: "#services"
