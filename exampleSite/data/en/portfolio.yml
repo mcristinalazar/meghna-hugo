@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Cercei de poveste
   portfolio_item:
+  - name: Alti cercei
+    image: images/cer2.jpg
+    image_webp: images/cer2.webp
+    categories:
+    - Design
+    content: Alti cercei
+    link: ''
   - name: Primii cercei
     image: images/cercei1.jpg
     image_webp: images/cercei1.webp
