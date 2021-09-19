@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: ''
+  bg_image: images/backgrounds/cer3.jpg
   icon: ''
   title: Cercei de Poveste
   content: Buna, sunt Maria si te invit la o calatorie de vis intr-o lume imaginara.
