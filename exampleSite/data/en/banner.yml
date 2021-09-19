@@ -5,7 +5,7 @@ banner:
   bg_image: images/backgrounds/cer3.jpg
   icon: ''
   title: Cercei de Poveste
-  content: Buna, sunt Maria si te invit la o calatorie de vis intr-o lume imaginara.
+  content: Buna, sunt Maria si te invit la o calatorie de vis.
   button:
     enable: true
     label: Explore Us
