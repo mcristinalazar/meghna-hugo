@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: exampleSite/data/en
+  label: Portfolio
+  create: all
+  match: portfolio.yml
 - type: heading
   label: Blog Post
 - type: directory
