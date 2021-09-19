@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: exampleSite/data/en
   label: Portfolio
-  create: all
+  create: documents
   match: portfolio.yml
 - type: heading
   label: Blog Post
