@@ -4,8 +4,8 @@ portfolio:
   title: Cercei de poveste
   portfolio_item:
   - name: Primii cercei
-    image: images/portfolio/cercei1.jpg
-    image_webp: images/portfolio/cercei1.webp
+    image: images/cercei1.jpg
+    image_webp: images/cercei1.webp
     categories:
     - design
     content: Primii cercei
