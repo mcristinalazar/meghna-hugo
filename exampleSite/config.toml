@@ -85,7 +85,7 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Maria"
 description = "Cercei de Poveste"
 google_analytics_id = ""
 logo = "images/logo.png"
