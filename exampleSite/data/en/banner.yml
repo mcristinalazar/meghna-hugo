@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/cer3.webp
-  bg_image: images/cer3.jpg
+  bg_image_webp: ''
+  bg_image: images/banner.jpg
   icon: ''
   title: Cercei de Poveste
   content: Buna, sunt Maria si te invit la o calatorie de vis.
