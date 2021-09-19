@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Vino cu mine!
-    link: "#services"
+    link: "#portfolio"
