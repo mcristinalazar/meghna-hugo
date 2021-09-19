@@ -4,6 +4,13 @@ portfolio:
   title: Cercei de poveste
   portfolio_item:
   - name: Cercei in noapte
+    image: "/image/cerceiinoapte"
+    image_webp: ''
+    categories:
+    - Portfolio
+    content: Trandafiri
+    link: ''
+  - name: Cercei in noapte
     image: "/images/20210916_230117"
     image_webp: ''
     categories:
