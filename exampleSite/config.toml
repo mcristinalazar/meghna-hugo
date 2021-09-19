@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://cerceidepoveste.netlify.app/"
 disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
