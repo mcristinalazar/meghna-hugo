@@ -9,7 +9,7 @@ portfolio:
     categories:
     - Design
     content: Cercei exemplu
-    link: google.com
+    link: blog/simple-blog-post-8/
   - name: Alti cercei
     image: images/cer2.jpg
     image_webp: images/cer2.webp
