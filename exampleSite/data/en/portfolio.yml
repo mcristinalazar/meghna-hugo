@@ -7,7 +7,7 @@ portfolio:
     image: images/exemplu.jpg
     image_webp: ''
     categories:
-    - Exemple
+    - Design
     content: Cercei exemplu
     link: google.com
   - name: Alti cercei
