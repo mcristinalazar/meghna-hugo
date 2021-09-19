@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Primii cercei
     image: images/portfolio/cercei1.jpg
-    image_webp: ''
+    image_webp: images/portfolio/cercei1.webp
     categories:
     - design
     content: Primii cercei
