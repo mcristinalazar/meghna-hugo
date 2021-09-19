@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Cercei de poveste
   portfolio_item:
+  - name: Cercei exemplu
+    image: images/exemplu.jpg
+    image_webp: ''
+    categories:
+    - Exemple
+    content: Cercei exemplu
+    link: google.com
   - name: Alti cercei
     image: images/cer2.jpg
     image_webp: images/cer2.webp
