@@ -3,14 +3,14 @@ portfolio:
   enable: true
   title: Cercei de poveste
   portfolio_item:
-  - name: Cercei in noapte
+  - name: Primii pasi
     image: "/images/cerceiinnoapte.jpg"
     image_webp: ''
     categories:
     - Primii pasi
     content: Povestea cerceilor a inceput cu mult dinainte de a incepe. Construiam
       o casa. Asa mm descoperit rasina. Cu ani dupa, am primit o brosa din rasina
-      cu o frunza de feriga. Iar apoi au aprut plimbari lungi prin padure. Atatea
+      cu o frunza de feriga. Iar apoi au aparut plimbari lungi prin padure. Atatea
       texturi, forme, culori si nuante. Atatea
     link: ''
   - name: Cercei exemplu
