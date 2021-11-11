@@ -13,12 +13,13 @@ portfolio:
       cu o frunza de feriga. Iar apoi au aparut plimbari lungi prin padure. Atatea
       texturi, forme, culori si nuante. Atatea
     link: ''
-  - name: Cercei exemplu
+  - name: Dulceata trandafirilor
     image: images/exemplu.jpg
     image_webp: ''
     categories:
-    - Design
-    content: Cercei exemplu
+    - Design Trandafiri
+    content: Culori intense, vesele, nuante jucause, stralucitori si altfel. Sunt
+      pentru tine?
     link: blog/simple-blog-post-8/
   - name: Alti cercei
     image: images/cer2.jpg
