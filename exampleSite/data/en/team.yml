@@ -3,12 +3,11 @@ team:
   enable: true
   title: About me
   team_member:
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Maria
+    image_webp: ''
+    image: "/images/20210129_092911.jpg"
+    designation: The storyteller
+    content: The Mother of Earrings
     social:
     - icon: ti-facebook
       link: "#"
