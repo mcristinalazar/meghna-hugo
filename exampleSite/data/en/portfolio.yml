@@ -14,7 +14,7 @@ portfolio:
       texturi, forme, culori si nuante. Atatea
     link: ''
   - name: Dulceata trandafirilor
-    image: images/exemplu.jpg
+    image: "/images/petale-si-quinoa.jpg"
     image_webp: ''
     categories:
     - Design Trandafiri
